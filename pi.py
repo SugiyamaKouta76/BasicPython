@@ -31,3 +31,5 @@ x = list(map(len, [text[23]]))
 print(*(a+b+c+d+e+f+g+h+i+j+k+l+m+n+o+p+q+r+s+t+u+v+w+x))
 # TODO
 
+type(a)
+print (type(a))
