@@ -11,7 +11,7 @@ else:
     r = b - (q * a)
 print(q,r)
 
-while r == 0:
+while r != 0:
     if a >= b:
         a = q
         b = r
