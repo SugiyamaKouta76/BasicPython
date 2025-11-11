@@ -1,4 +1,17 @@
-a = input("aの値を入力: ")
-b = input("bの値を入力: ")
+a = 61
 
-# TODO
+if (a / 2) != int:
+    n = (a / 2) + 0.5
+else:
+    n = (a / 2)
+
+int(n)
+
+for i in range(n + 1):
+
+    if (a / range) == int:
+        print("素数ではないです")
+    else:
+        print("素数です")
+        break
+
